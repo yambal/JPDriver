@@ -8,7 +8,7 @@ driver_names : .driver.names
     # Prefix female names with +.
 
     	name[00]: "星 桃次郎"
-    	name[01]: "Ian P."
+    	name[01]: "トラック運転手のイラスト"
     	name[02]: "Cameron S."
     	name[03]: "Richard O."
     	name[04]: "Manuel J."
@@ -19,7 +19,7 @@ driver_names : .driver.names
     	name[09]: "Bob S."
     	name[10]: "+Sophie I."
 
-    	name[11]: "+Katie W."
+    	name[11]: "+奈美"
     	name[12]: "+Georgia A."
     	name[13]: "+Sabrina C."
     	name[14]: "+Melanie Q."
