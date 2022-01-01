@@ -1,3 +1,4 @@
 ## GIMP での ドライバーアイコン保存方法
 
-- RXGB(DXT5) : No mipmaps
+- BC2/DXT3 : no mipmap
+- 128 x 128
