@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "68_yoshimura_takao.tobj" 
+	texture_name : "texture" 
+} 

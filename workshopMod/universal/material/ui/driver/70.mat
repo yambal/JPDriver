@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "70_ohba_kazuhide.tobj" 
+	texture_name : "texture" 
+} 

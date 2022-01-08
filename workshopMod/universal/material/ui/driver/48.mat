@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "48_kouki_nakayama.tobj" 
+	texture_name : "texture" 
+} 

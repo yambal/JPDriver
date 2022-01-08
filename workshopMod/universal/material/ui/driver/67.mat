@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "67_adachi_toshiaki.tobj" 
+	texture_name : "texture" 
+} 

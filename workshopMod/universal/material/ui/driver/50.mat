@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "50_nemoto_kouji.tobj" 
+	texture_name : "texture" 
+} 

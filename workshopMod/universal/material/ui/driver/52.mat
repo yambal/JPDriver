@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "52_taishi_minami.tobj" 
+	texture_name : "texture" 
+} 

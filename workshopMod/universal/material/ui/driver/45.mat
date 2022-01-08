@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "45_hideki_yoshida.tobj" 
+	texture_name : "texture" 
+} 
