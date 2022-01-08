@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "87_nishioka_itaru.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "85_sekiguchi_katsuji.tobj" 
+	texture_name : "texture" 
+} 

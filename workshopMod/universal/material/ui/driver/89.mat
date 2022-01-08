@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "89_okuda_takayuki.tobj" 
+	texture_name : "texture" 
+} 

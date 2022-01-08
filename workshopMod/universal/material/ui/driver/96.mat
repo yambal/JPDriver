@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "96_ohishi_masanori.tobj" 
+	texture_name : "texture" 
+} 

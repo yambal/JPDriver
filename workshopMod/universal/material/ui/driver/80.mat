@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "80_tada_hiroki.tobj" 
+	texture_name : "texture" 
+} 

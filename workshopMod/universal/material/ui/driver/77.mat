@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "77_gotou_yusuke.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "90_tomita_yasuyuki.tobj" 
+	texture_name : "texture" 
+} 

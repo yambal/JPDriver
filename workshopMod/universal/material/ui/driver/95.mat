@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "95_shiina_atsushi.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "83_hirabayashi_hiroshi.tobj" 
+	texture_name : "texture" 
+} 

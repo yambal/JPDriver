@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "75_nozomi_ueno.tobj" 
+	texture_name : "texture" 
+} 

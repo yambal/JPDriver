@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "81_hata_masanori.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "94_iwai_yusuke.tobj" 
+	texture_name : "texture" 
+} 
