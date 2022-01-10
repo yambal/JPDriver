@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "104_seki_hajime.tobj" 
+	texture_name : "texture" 
+} 

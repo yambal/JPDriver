@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "101_yoshida_noriyuki.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "128_tsuda_hidefumi.tobj" 
+	texture_name : "texture" 
+} 

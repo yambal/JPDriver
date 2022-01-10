@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "153_okano_takehiko.tobj" 
+	texture_name : "texture" 
+} 

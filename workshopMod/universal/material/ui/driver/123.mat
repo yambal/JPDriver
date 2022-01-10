@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "123_komagai_koji.tobj" 
+	texture_name : "texture" 
+} 

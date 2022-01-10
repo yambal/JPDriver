@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "127_nakagawa_yoshiyuki.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "132_naito_kengo.tobj" 
+	texture_name : "texture" 
+} 

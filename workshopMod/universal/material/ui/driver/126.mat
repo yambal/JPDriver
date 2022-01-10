@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "126_ishiyama_tatsurou.tobj" 
+	texture_name : "texture" 
+} 

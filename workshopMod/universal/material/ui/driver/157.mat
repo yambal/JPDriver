@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "157_miyake_kenzo.tobj" 
+	texture_name : "texture" 
+} 

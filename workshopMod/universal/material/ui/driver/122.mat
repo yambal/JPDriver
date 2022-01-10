@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "122_kimu_yoshiaki.tobj" 
+	texture_name : "texture" 
+} 

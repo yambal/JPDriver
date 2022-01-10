@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "118_deguchi_shoichi.tobj" 
+	texture_name : "texture" 
+} 

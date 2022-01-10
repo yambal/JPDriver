@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "134_nagata_kentaro.tobj" 
+	texture_name : "texture" 
+} 

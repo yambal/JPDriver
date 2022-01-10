@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "108_koizumi_hiroaki.tobj" 
+	texture_name : "texture" 
+} 

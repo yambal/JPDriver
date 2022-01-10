@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "130_kitano_hiroaki.tobj" 
+	texture_name : "texture" 
+} 

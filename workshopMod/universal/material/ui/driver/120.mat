@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "120_wada_hiromichi.tobj" 
+	texture_name : "texture" 
+} 

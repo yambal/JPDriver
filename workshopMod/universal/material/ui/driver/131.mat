@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "131_murata_yuji.tobj" 
+	texture_name : "texture" 
+} 

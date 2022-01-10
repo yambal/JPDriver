@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "105_yamada_hideo.tobj" 
+	texture_name : "texture" 
+} 

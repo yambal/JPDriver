@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "121_nagashima_yuji.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "103_murakami_ryuji.tobj" 
+	texture_name : "texture" 
+} 
