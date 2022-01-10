@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "191_masataka_miyakoshi.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "207_seko_masaharu.tobj" 
+	texture_name : "texture" 
+} 

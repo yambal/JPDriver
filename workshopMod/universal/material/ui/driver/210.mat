@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "210_takubo_takerou.tobj" 
+	texture_name : "texture" 
+} 

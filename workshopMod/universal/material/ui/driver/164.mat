@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "164_shiraishi_takuya.tobj" 
+	texture_name : "texture" 
+} 

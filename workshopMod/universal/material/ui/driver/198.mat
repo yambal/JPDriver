@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "198_tomimatsu_fumio.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "205_niihara_sadayoshi.tobj" 
+	texture_name : "texture" 
+} 

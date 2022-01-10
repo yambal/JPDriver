@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "161_akai_katsuki.tobj" 
+	texture_name : "texture" 
+} 

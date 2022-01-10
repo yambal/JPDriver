@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "169_hishida_kousuke.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "168_fuji_hirotaka.tobj" 
+	texture_name : "texture" 
+} 

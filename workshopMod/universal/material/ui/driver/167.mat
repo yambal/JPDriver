@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "167_uda_akihiro.tobj" 
+	texture_name : "texture" 
+} 
