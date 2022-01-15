@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "246_yamamoto_masaki.tobj" 
+	texture_name : "texture" 
+} 

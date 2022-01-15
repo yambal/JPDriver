@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "242_beppu_yoshikazu.tobj" 
+	texture_name : "texture" 
+} 

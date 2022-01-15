@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "248_nozue_kyouji.tobj" 
+	texture_name : "texture" 
+} 

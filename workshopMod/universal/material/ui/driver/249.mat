@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "249_ibuki_kenya.tobj" 
+	texture_name : "texture" 
+} 
