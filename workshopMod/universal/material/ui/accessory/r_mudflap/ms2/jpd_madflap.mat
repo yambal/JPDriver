@@ -1,0 +1,6 @@
+
+material : "ui"
+{
+	texture : "jpd_madflap.tobj"
+	texture_name : "texture"
+}

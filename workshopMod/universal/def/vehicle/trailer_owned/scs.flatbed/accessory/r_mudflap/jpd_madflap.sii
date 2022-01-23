@@ -1,0 +1,11 @@
+SiiNunit
+{
+accessory_addon_data : jpd_madflap.scs.flatbed.r_mudflap
+{
+	name: "JP Driver Madflap"
+	price: 1
+	unlock: 0
+	icon: "r_mudflap/ms2/jpd_madflap"
+	exterior_model: "/vehicle/trailer_owned/upgrade/r_mudflap/ms2/jpd_madflap/mudflap.pmd"
+}
+}

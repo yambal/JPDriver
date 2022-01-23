@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "postervertical.sisl_tr.tobj"
+	texture_name : "texture"
+}
