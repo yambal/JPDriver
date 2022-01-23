@@ -5,4 +5,4 @@
 ## 報告・要望など
 
 Issue（問題）に投稿してください
-[](https://github.com/yambal/JPDriver/issues)
+[Issue（問題）](https://github.com/yambal/JPDriver/issues)
